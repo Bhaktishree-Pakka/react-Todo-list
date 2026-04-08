@@ -37,7 +37,7 @@ function App() {
       <div className="container">
         
         <div className="top-bar">
-          <h2>Smart Task Manager</h2>
+          <h2>Todo-list</h2>
           <button
   className="theme-toggle"
   onClick={() => setDarkMode(!darkMode)}
